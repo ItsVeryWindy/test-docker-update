@@ -1,0 +1,5 @@
+{
+    "templates": [
+        "mcr.microsoft.com/dotnet/core/sdk:{v}"
+    ]
+}
